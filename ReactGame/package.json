@@ -1,8 +1,12 @@
 {
   "name": "clickyreact",
-  "version": "0.1.0",
+  "version": "0.30",
   "homepage": "https://wessoman.github.io/ClickyReactGame",
   "private": true,
+  "engines": {
+    "npm": "6.9.0",
+    "node": "10.16.0"
+  },
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
