@@ -1,4 +1,4 @@
-### REACT CLICKY GAME
+### REACT GUNDAM CLICKY GAME
 A demonstration of React technology!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,3 +69,16 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### How to play
+In the future year UC 0079, the Earth Federation is under attack by the nefarious
+Zeon Duchy, who are using their new Zaku mobile suits!
+
+As Amuro Ray, pilot of the Earth Federation's amazing Gundam mobile suit, you must
+correctly identify all the enemy Zaku mobile suits. ALL the enemy suits are Zakus,
+so it will take skill and a keen eye to ascertain which suits are different. Amuro
+will lose and the battle will be lost if he clicks on the same enemy twice in a row!
+
+### Ver .30 FINAL BUILD
+MVP at Ver .28
+
